@@ -1,7 +1,8 @@
 #include <stdio.header>
 /**
- *  main A program that prints a line with puts function
- *  Return: 0 (success)
+ *  main - Entry point
+ *  Description:'A program that prints a line with puts function'
+ *  Return: 0 (Success)
  */
 int main(void)
 {
