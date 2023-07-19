@@ -2,7 +2,8 @@
 
 /**
  * main - Entry point
- * Description:the program  print_alphabet in lowercase
+ * Description:the program that prints alphabet in lowercase.
+ * Return:0 (Success)
  */
 void print_alphabet(void)
 {
